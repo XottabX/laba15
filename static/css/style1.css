@@ -1,0 +1,106 @@
+.PG1{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+  margin-top: 50px;
+}
+.PG1 img{
+  width: 748px;
+}
+.PG1 h3{
+  color: rgb(85, 85, 85);
+}
+.repair{
+  margin-top: 60px;
+}
+
+.Contact {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+}
+.form-popup p{
+  text-align: center;
+}
+.form-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #555;
+  z-index: 9;
+}
+
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+.form-container .btn {
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+.PG12 img{
+  margin-left: 152px;
+}
+.Servic{
+  display: flex;
+  justify-content: center;
+}
+.ServicHome{
+  border: 1px solid #555;
+  height: 480px;
+}
+.ServicHome h2{
+  text-align: center;
+}
+.price{
+  background-color: #d6b80c;
+}
+.PG14 .col-md-6{
+  display: flex;
+  justify-content: space-around
+}
+.ObjectsImg{
+  border-left: 1px solid #555;
+  border-right: 1px solid #555;
+  border-top: 1px solid #555;
+}
+.Objects{
+  border-bottom: 1px solid #555;
+  border-left: 1px solid #555;
+  border-right: 1px solid #555;
+}
+.PG15 .ObjectsImg{
+  padding: 0;
+  border: 1px solid #555;
+}
+.PG15 .Objects{
+  padding: 33px;
+  border: 1px solid #555;
+}

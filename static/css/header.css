@@ -1,0 +1,18 @@
+.number-header{
+    padding-top: 10px;
+    color: #777;
+    float: left;
+    height: 50px;
+    padding: 25px 15px;
+    font-size: 15px;
+    line-height: 20px;
+    text-decoration: none;
+}
+.number-header p{
+    padding-top: 25px;
+}
+.navbar .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}

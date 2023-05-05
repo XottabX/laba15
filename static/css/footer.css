@@ -1,0 +1,11 @@
+.footer{
+    height: 67px;
+    background-color: #242424;
+}
+.PG16 p{
+    color: white;
+}
+.footer .brand{
+    display: flex;
+    justify-content: space-between
+}

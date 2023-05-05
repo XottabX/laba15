@@ -1,0 +1,20 @@
+.PG21, .PG22{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    margin-top: 50px;
+  }
+  .PG2 h3{
+    color: rgb(85, 85, 85);
+  }
+  .statistics{
+    border: 1px solid #555;
+    height: 100px;
+  }
+  .statistics h1{
+    display: flex;
+    justify-content: center;
+  }
+  .statistics h4{
+    text-align: center;
+  }
